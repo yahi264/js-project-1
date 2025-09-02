@@ -802,7 +802,7 @@ body{
 /* start contact us  */
 .contact{
     padding: 100px 0; 
-    background-image: url(/images/worldmap.jpg);
+    background-image: url(../images/worldmap.jpg);
     position: relative;
 }
 .contact .overly{
